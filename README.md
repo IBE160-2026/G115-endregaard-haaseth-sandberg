@@ -9,3 +9,4 @@ Repoet inneholder gruppens applikasjon og dokumentasjon av utvikling, testing og
 - Hedda R Endregaard
 - Oskar Lia Haaseth
 - Elisabeth Sandberg
+- Trond Engelstad
